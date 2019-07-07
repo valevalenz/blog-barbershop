@@ -1,0 +1,35 @@
+.navbar{
+  background-color: $eerie-black;
+
+}
+
+.nav-link{
+    color:$white;
+    text-decoration: none;
+}
+
+.nav-item{
+  float:right;
+}
+
+.logo{
+  height:25px;
+}
+
+.header{
+   background-image: url('../img/post-image.jpg');
+   background-repeat: no-repeat;
+ background-size: cover;
+ background-position: left;
+ padding-bottom: 10rem;
+ padding-top:170px;
+}
+
+h1{
+  color: $white;
+  font-family: $playfair;
+  text-align:center;
+  font-size: $xx-large;
+  font-weight: $black;
+  font-style: italic;
+}

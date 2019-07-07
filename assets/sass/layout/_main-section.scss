@@ -1,0 +1,42 @@
+.main-section--date{
+  font-family: $playfair;
+  font-weight:$light;
+  font-size: $medium;
+  color: $nickel;
+}
+
+.main-section--body{
+  font-family: $roboto;
+  font-weight: $light;
+  font-size: $medium;
+  color: $nickel;
+  line-height: 3;
+}
+
+.main-section--author-info{
+  display:block;
+  vertical-align: middle;
+}
+
+.main-section--author-name{
+  font-family:$playfair;
+  font-weight: $black;
+  font-style: italic;
+  color:$eerie-black;
+  font-size: $x-large;
+}
+
+.main-section--author-contact{
+  font-family:$roboto;
+  color: $light-gray;
+  font-size: $medium;
+}
+
+.main-section--author-description{
+  font-family: $roboto;
+  color: $nickel;
+  font-size: $small;
+  line-height: 3;
+  display: inline-block;
+  vertical-align: middle;
+}
